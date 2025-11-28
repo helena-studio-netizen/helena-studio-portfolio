@@ -50,7 +50,14 @@
 ![](https://github.com/user-attachments/assets/afc8304f-e121-432a-a53b-eae7c1086c59) | ![](https://github.com/user-attachments/assets/990fa4e1-1751-4ec0-8316-cb7cfbbf949b) | ![](https://github.com/user-attachments/assets/8ca5277b-5e0f-4220-aa48-b5bf1ad50680) |
 ![](https://github.com/user-attachments/assets/6ef7bf06-091c-4324-a37a-7f24f2059eae) | ![](https://github.com/user-attachments/assets/f06d63d5-d18d-4019-8e88-3b017663e38c) | ![](https://github.com/user-attachments/assets/d09aefef-610a-482a-ac1c-4b5d991f1f23) |
 
+🌸 Серия 5 — Soft Gradient Flow
+Коллекция абстрактных 3D-форм в мягких пастельных градиентах: плавные линии, воздушные тени и матовые поверхности. Подходит для бренд-паков, презентаций и оформления digital-продуктов.
 
+| | | |
+|---|---|---|
+| ![](https://github.com/user-attachments/assets/2f1d3902-7a72-43d4-a313-db6f3949fe36) | ![](https://github.com/user-attachments/assets/82a9b5a3-ae3d-42a4-b04f-90a287fd5f39) | ![](https://github.com/user-attachments/assets/9d2214bc-9876-444c-823c-dc112ae49619) |
+| ![](https://github.com/user-attachments/assets/9e4a7eef-1237-4e50-a878-cd9261480c09) | ![](https://github.com/user-attachments/assets/ef060410-bce8-4e75-ab9e-b8b9f58c54eb) | ![](https://github.com/user-attachments/assets/a3337704-d992-4e34-8db6-3ac51eb8f239) |
+| ![](https://github.com/user-attachments/assets/cea07814-aa07-490b-8ab1-cbbd98772c00) | ![](https://github.com/user-attachments/assets/0d5142eb-270c-4c15-af85-575da2d9e11a) | ![](https://github.com/user-attachments/assets/d6233d72-ccef-428e-99c3-997d3ca456ac) |
 
 
 
