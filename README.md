@@ -59,6 +59,15 @@
 | ![](https://github.com/user-attachments/assets/9e4a7eef-1237-4e50-a878-cd9261480c09) | ![](https://github.com/user-attachments/assets/ef060410-bce8-4e75-ab9e-b8b9f58c54eb) | ![](https://github.com/user-attachments/assets/a3337704-d992-4e34-8db6-3ac51eb8f239) |
 | ![](https://github.com/user-attachments/assets/cea07814-aa07-490b-8ab1-cbbd98772c00) | ![](https://github.com/user-attachments/assets/0d5142eb-270c-4c15-af85-575da2d9e11a) | ![](https://github.com/user-attachments/assets/d6233d72-ccef-428e-99c3-997d3ca456ac) |
 
+Серия 6 — Neural Network Geometry
+
+Коллекция абстрактных 3D-сцен в неоновой эстетике: стеклянные формы, светящиеся орбиты и узлы, напоминающие структуру нейронных сетей. Подходит для оформления AI-проектов, презентаций, сайтов и digital-концепций.
+
+| | | |
+|---|---|---|
+| ![](https://github.com/user-attachments/assets/bdc17768-a9d6-487c-80a9-30c235d75c94) | ![](https://github.com/user-attachments/assets/4965018f-65f3-45f1-9c93-b924d27f096d) | ![](https://github.com/user-attachments/assets/d6d32f45-a40b-42b3-bd25-024ca53839ff) |
+| ![](https://github.com/user-attachments/assets/987a857f-29a1-407f-8ca3-41fb5dcb9d79) | ![](https://github.com/user-attachments/assets/c30e57c7-2200-4d92-8c56-e7fc57dfaf2a) | ![](https://github.com/user-attachments/assets/477d3ddf-076b-4be9-8d4d-0916f863bad2) |
+| ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
 
 
 
