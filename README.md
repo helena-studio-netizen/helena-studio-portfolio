@@ -3,7 +3,7 @@
 🔥 Премиальная коллекция неоновых 3D-композиций в фирменном стиле Helena Studio.  
 Фоны для сайтов, рекламы, презентаций, оформлений и коммерческого использования.
 
-## 📌 Серия 1 — Tech-Neon Ultra-Premium 
+ Серия 1 — Tech-Neon Ultra-Premium 
 Премиальная коллекция неоновых 3D-композиций: глубокие тёмные фоны, яркие световые контуры, технологичная архитектура и футуристичная атмосфера. Подходит для сайтов, презентаций, рекламных материалов, визуальной айдентики и коммерческого использования.
 
 |  |  |  |
@@ -15,7 +15,7 @@
 | ![](13.png) | ![](14.png) | ![](15.png) |
 
 
-## ✨ Серия 2 — Abstract Golden Luxury Shapes
+ Серия 2 — Abstract Golden Luxury Shapes
 Премиальная коллекция абстрактных золотых композиций: благородные материалы, мягкие тени, архитектурные ниши и минималистичная геометрия. Атмосфера роскоши и статуса — идеальна для брендовых проектов, презентаций, дизайна сайтов и коммерческого использования.
 
 | | | |
@@ -39,7 +39,7 @@
 
 
 
-## ✨ Серия 4 — Luxury Minimal Geometry
+ Серия 4 — Luxury Minimal Geometry
 Изящная минималистичная коллекция в премиальном стиле: чистые формы, мягкие тени, золотые акценты и архитектурная глубина. Подходит для брендинга, презентаций, сайтов, рекламных макетов и коммерческого использования.
 
 
@@ -50,7 +50,7 @@
 ![](https://github.com/user-attachments/assets/afc8304f-e121-432a-a53b-eae7c1086c59) | ![](https://github.com/user-attachments/assets/990fa4e1-1751-4ec0-8316-cb7cfbbf949b) | ![](https://github.com/user-attachments/assets/8ca5277b-5e0f-4220-aa48-b5bf1ad50680) |
 ![](https://github.com/user-attachments/assets/6ef7bf06-091c-4324-a37a-7f24f2059eae) | ![](https://github.com/user-attachments/assets/f06d63d5-d18d-4019-8e88-3b017663e38c) | ![](https://github.com/user-attachments/assets/d09aefef-610a-482a-ac1c-4b5d991f1f23) |
 
-🌸 Серия 5 — Soft Gradient Flow
+ Серия 5 — Soft Gradient Flow
 Коллекция абстрактных 3D-форм в мягких пастельных градиентах: плавные линии, воздушные тени и матовые поверхности. Подходит для бренд-паков, презентаций и оформления digital-продуктов.
 
 | | | |
@@ -70,6 +70,21 @@
 | ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
 
 
+Серия 7 — Shadow Fabric Volumes
+
+Коллекция премиальных текстурных сцен: глубокие складки ткани, тени, шелковая пластика и мягкие градиенты света.
+Создана для оформления digital-проектов, презентаций, сайтов, AI-концепций, лендингов и нейросетевого визуала.
+
+|   |   |   |
+|---|---|---|
+| [![](https://github.com/user-attachments/assets/77fa3a90-02e0-495b-bc32-dafbba7b2c9f)](https://github.com/user-attachments/assets/77fa3a90-02e0-495b-bc32-dafbba7b2c9f) | [![](https://github.com/user-attachments/assets/1f8e5dc6-a9a7-4660-8067-9222aef7e649)](https://github.com/user-attachments/assets/1f8e5dc6-a9a7-4660-8067-9222aef7e649) | [![](https://github.com/user-attachments/assets/ed92041b-c816-4270-ae6a-35d6677f91e9)](https://github.com/user-attachments/assets/ed92041b-c816-4270-ae6a-35d6677f91e9) |
+| [![](https://github.com/user-attachments/assets/3096f1e6-72b1-4d00-99ac-6e290302348b)](https://github.com/user-attachments/assets/3096f1e6-72b1-4d00-99ac-6e290302348b) | [![](https://github.com/user-attachments/assets/f552a597-d033-40fb-aa13-b76d8079817c)](https://github.com/user-attachments/assets/f552a597-d033-40fb-aa13-b76d8079817c) | [![](https://github.com/user-attachments/assets/3055a3b3-c7b8-4313-8550-632fe9ac34fc)](https://github.com/user-attachments/assets/3055a3b3-c7b8-4313-8550-632fe9ac34fc) |
+| [![](https://github.com/user-attachments/assets/874dafec-af85-49c1-b72c-1e74e7cd7864)](https://github.com/user-attachments/assets/874dafec-af85-49c1-b72c-1e74e7cd7864) | [![](https://github.com/user-attachments/assets/a9db7914-82d7-4ee8-8cbd-4da1628fe84f)](https://github.com/user-attachments/assets/a9db7914-82d7-4ee8-8cbd-4da1628fe84f) | [![](https://github.com/user-attachments/assets/d192cb02-9813-4a4f-b52f-fc4bb2ae869d)](https://github.com/user-attachments/assets/d192cb02-9813-4a4f-b52f-fc4bb2ae869d) |
+| [![](https://github.com/user-attachments/assets/a6319217-170c-4f0d-aea9-ff050b2a0a59)](https://github.com/user-attachments/assets/a6319217-170c-4f0d-aea9-ff050b2a0a59) | [![](https://github.com/user-attachments/assets/eb36537e-56dc-4cc9-93d2-f8deb1c61150)](https://github.com/user-attachments/assets/eb36537e-56dc-4cc9-93d2-f8deb1c61150) | [![](https://github.com/user-attachments/assets/bb3eea4d-238e-48ed-bd9a-89f58bb7bd50)](https://github.com/user-attachments/assets/bb3eea4d-238e-48ed-bd9a-89f58bb7bd50) |
+| [![](https://github.com/user-attachments/assets/16d869c5-1a6e-41a9-8c2b-8ab3d1f6cc9c)](https://github.com/user-attachments/assets/16d869c5-1a6e-41a9-8c2b-8ab3d1f6cc9c) | [![](https://github.com/user-attachments/assets/34626cb0-8b42-478f-b4c1-2e61becc96cb)](https://github.com/user-attachments/assets/34626cb0-8b42-478f-b4c1-2e61becc96cb) | [![](https://github.com/user-attachments/assets/7e5768c2-e541-400c-80ba-9ddfa96e5649)](https://github.com/user-attachments/assets/7e5768c2-e541-400c-80ba-9ddfa96e5649) |
+| [![](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5)](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5) | [![](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84)](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84) | [![](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870)](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870) |
+| [![](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7)](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7) | [![](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3)](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3) | [![](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463)](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463) |
+| [![](https://github.com/user-attachments/assets/eaa0d99e-17ad-48b7-894f-7dc8d4e8e3ef)](https://github.com/user-attachments/assets/eaa0d99e-17ad-48b7-894f-7dc8d4e8e3ef) | [![](https://github.com/user-attachments/assets/f8011708-0bab-421a-9dba-ddb4c049047c)](https://github.com/user-attachments/assets/f8011708-0bab-421a-9dba-ddb4c049047c) | [![](https://github.com/user-attachments/assets/3e013bb3-f193-4aba-b06c-2705c570944e)](https://github.com/user-attachments/assets/3e013bb3-f193-4aba-b06c-2705c570944e) |
 
 
 
