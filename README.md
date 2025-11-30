@@ -1,7 +1,30 @@
 🔥 Премиальная коллекция 3D-композиций и визуальных сцен в фирменном стиле Helena Studio
 Фоны и визуальные решения для сайтов, презентаций, AI-концепций, лендингов, рекламных материалов, дизайна digital-продуктов и коммерческого использования.
- 
- Серия 1 — Tech-Neon Ultra-Premium 
+
+# Серия 1 — Ancient Marble Classicism
+
+Премиальная коллекция античных архитектурных сцен: мраморные колоннады, арки, мягкие ткани, утренний золотой свет и музейная атмосфера. Чистые линии, благородные материалы и ощущение пространственного величия. Подходит для презентаций, брендинга, editorial-проектов, luxury-дизайна и коммерческого использования.
+
+| | | | |
+|---|---|---|---|
+| ![1][1] | ![2][2] | ![3][3] | ![4][4] |
+| ![5][5] | ![6][6] | ![7][7] | ![8][8] |
+| ![9][9] | ![10][10] | ![11][11] | ![12][12] |
+
+[1]: https://github.com/user-attachments/assets/39923a2b-aa28-49e5-aa6a-e130df1f38d9
+[2]: https://github.com/user-attachments/assets/fef528f4-8c15-4a32-9879-d53000f12cc4
+[3]: https://github.com/user-attachments/assets/babad5a5-7840-4386-96e8-b5cf958e50e6
+[4]: https://github.com/user-attachments/assets/f960a4d9-4033-412f-aca9-3424c536e09f
+[5]: https://github.com/user-attachments/assets/6cc5b991-2746-426f-9fce-89e6414f5a1b
+[6]: https://github.com/user-attachments/assets/f273e7d7-aa8f-4599-a86a-897761723623
+[7]: https://github.com/user-attachments/assets/ace2a3d9-3ed2-4311-9f37-dc081365f12a
+[8]: https://github.com/user-attachments/assets/fb1a3723-44d8-4723-b0c8-6f731a05d829
+[9]: https://github.com/user-attachments/assets/5ac15a5e-ac6c-497f-9232-866268bce52f
+[10]: https://github.com/user-attachments/assets/488b37a6-605b-4ea5-8504-526fe8112236
+[11]: https://github.com/user-attachments/assets/cabc6794-9ead-4e92-8aa6-10f1a7490966
+[12]: https://github.com/user-attachments/assets/8b294f74-f285-4ca3-8ecb-e543f939c234
+
+ Серия 2 — Tech-Neon Ultra-Premium 
 Премиальная коллекция неоновых 3D-композиций: глубокие тёмные фоны, яркие световые контуры, технологичная архитектура и футуристичная атмосфера. Подходит для сайтов, презентаций, рекламных материалов, визуальной айдентики и коммерческого использования.
 
 |  |  |  |
@@ -12,7 +35,7 @@
 | ![](10.png) | ![](11.png) | ![](12.png) |
 | ![](13.png) | ![](14.png) | ![](15.png) |
 
- Серия 2 — Abstract Golden Luxury Shapes
+ Серия 3 — Abstract Golden Luxury Shapes
 Премиальная коллекция абстрактных золотых композиций: благородные материалы, мягкие тени, архитектурные ниши и минималистичная геометрия. Атмосфера роскоши и статуса — идеальна для брендовых проектов, презентаций, дизайна сайтов и коммерческого использования.
 
 | | | |
@@ -23,7 +46,7 @@
 ![](https://github.com/user-attachments/assets/ed30eaf2-6845-499f-8b5a-134c71d47e3a) | ![](https://github.com/user-attachments/assets/a6bdaab2-64f1-47d3-b195-6547e1f53fac) | ![](https://github.com/user-attachments/assets/6b8457f3-8465-499c-9964-edd7ba374538) |
 
 
-## ✨ Серия 3 — Futuristic Holographic Geometry II
+## ✨ Серия 4 — Futuristic Holographic Geometry II
 Продолжение футуристичной голографической серии: стеклянные формы, холодные неоновые блики, чистая геометрия, отражения и объёмный свет. Подходит для презентаций, сайтов, визуального брендинга и коммерческого использования.
 
 | | | |
@@ -33,7 +56,7 @@
 ![](https://github.com/user-attachments/assets/9a9adc01-dcc4-481e-baac-8ceecd43c904) | ![](https://github.com/user-attachments/assets/c80fd12d-20ad-4e2f-9149-d82538eeddf7) | ![](https://github.com/user-attachments/assets/4eea33dc-49d9-4dd4-8578-721710bdcb69) |
 ![](https://github.com/user-attachments/assets/59badc26-b895-43d2-8eba-c011af3b7730) | ![](https://github.com/user-attachments/assets/e9d73c52-10d5-4e3a-9d49-1570adfc8f35) | ![](https://github.com/user-attachments/assets/ac68cc46-6839-46ca-86dd-020742fbf2dd) |
 
- Серия 4 — Luxury Minimal Geometry
+ Серия 5 — Luxury Minimal Geometry
 Изящная минималистичная коллекция в премиальном стиле: чистые формы, мягкие тени, золотые акценты и архитектурная глубина. Подходит для брендинга, презентаций, сайтов, рекламных макетов и коммерческого использования.
 
 | | | |
@@ -43,7 +66,7 @@
 ![](https://github.com/user-attachments/assets/afc8304f-e121-432a-a53b-eae7c1086c59) | ![](https://github.com/user-attachments/assets/990fa4e1-1751-4ec0-8316-cb7cfbbf949b) | ![](https://github.com/user-attachments/assets/8ca5277b-5e0f-4220-aa48-b5bf1ad50680) |
 ![](https://github.com/user-attachments/assets/6ef7bf06-091c-4324-a37a-7f24f2059eae) | ![](https://github.com/user-attachments/assets/f06d63d5-d18d-4019-8e88-3b017663e38c) | ![](https://github.com/user-attachments/assets/d09aefef-610a-482a-ac1c-4b5d991f1f23) |
 
- Серия 5 — Soft Gradient Flow
+ Серия 6 — Soft Gradient Flow
 Коллекция абстрактных 3D-форм в мягких пастельных градиентах: плавные линии, воздушные тени и матовые поверхности. Подходит для бренд-паков, презентаций и оформления digital-продуктов.
 
 | | | |
@@ -52,7 +75,7 @@
 | ![](https://github.com/user-attachments/assets/9e4a7eef-1237-4e50-a878-cd9261480c09) | ![](https://github.com/user-attachments/assets/ef060410-bce8-4e75-ab9e-b8b9f58c54eb) | ![](https://github.com/user-attachments/assets/a3337704-d992-4e34-8db6-3ac51eb8f239) |
 | ![](https://github.com/user-attachments/assets/cea07814-aa07-490b-8ab1-cbbd98772c00) | ![](https://github.com/user-attachments/assets/0d5142eb-270c-4c15-af85-575da2d9e11a) | ![](https://github.com/user-attachments/assets/d6233d72-ccef-428e-99c3-997d3ca456ac) |
 
-Серия 6 — Neural Network Geometry
+Серия 7 — Neural Network Geometry
 Коллекция абстрактных 3D-сцен в неоновой эстетике: стеклянные формы, светящиеся орбиты и узлы, напоминающие структуру нейронных сетей. Подходит для оформления AI-проектов, презентаций, сайтов и digital-концепций.
 
 | | | |
@@ -61,7 +84,7 @@
 | ![](https://github.com/user-attachments/assets/987a857f-29a1-407f-8ca3-41fb5dcb9d79) | ![](https://github.com/user-attachments/assets/c30e57c7-2200-4d92-8c56-e7fc57dfaf2a) | ![](https://github.com/user-attachments/assets/477d3ddf-076b-4be9-8d4d-0916f863bad2) |
 | ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
 
-Серия 7 — Shadow Fabric Volumes
+Серия 8 — Shadow Fabric Volumes
 Коллекция премиальных текстурных сцен: глубокие складки ткани, тени, шелковая пластика и мягкие градиенты света.
 Создана для оформления digital-проектов, презентаций, сайтов, AI-концепций, лендингов и нейросетевого визуала.
 
@@ -75,7 +98,7 @@
 | [![](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5)](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5) | [![](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84)](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84) | [![](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870)](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870) |
 | [![](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7)](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7) | [![](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3)](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3) | [![](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463)](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463) |
 
-Серия 8 — Fluid Chrome Chaos  
+Серия 9 — Fluid Chrome Chaos  
 Коллекция динамичных хромированных абстракций: жидкий металл, волнообразные потоки, зеркальные искажения, глубокие тени и холодные акценты света. Подходит для оформления digital-проектов, презентаций, сайтов, AI-концепций, премиальных лендингов и коммерческих кейсов.
 
 | | | |
@@ -86,7 +109,7 @@
 | [![](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92)](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92) | [![](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab)](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab) | [![](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3)](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3) |
 | [![](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686)](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686) | [![](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26)](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26) | [![](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72)](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72) |
 
-Серия 9 — Mineral Luxe Waves
+Серия 10 — Mineral Luxe Waves
 
 Коллекция премиальных минеральных абстракций: глубокие бирюзовые пласты, песочные волны, мягкие агатовые ядра, фиолетовые включения и золотистые прожилки. Эстетика дорогого полированного камня и органической геометрии. Идеальна для оформления digital-проектов, презентаций, лендингов, AI-концепций, бренд-материалов и коллекционных визуальных серий.
 
