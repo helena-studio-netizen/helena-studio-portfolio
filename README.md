@@ -108,21 +108,14 @@
 Идеальна для оформления digital-проектов, презентаций, лендингов, AI-концепций, бренд-материалов и коллекционных визуальных серий.
 
 
-<img width="1024" height="1024" alt="24" src="https://github.com/user-attachments/assets/96a667e5-b081-4846-bb21-070fa8ebc43e" />
-<img width="1024" height="1024" alt="23" src="https://github.com/user-attachments/assets/c8dd6499-cf65-4934-8665-865ddabf4cd4" />
-<img width="1024" height="1536" alt="22" src="https://github.com/user-attachments/assets/741bd30f-0253-4ff5-ae23-55c9a5a90bbf" />
-<img width="1024" height="1024" alt="21" src="https://github.com/user-attachments/assets/40d91cbe-a885-4652-b7cc-759190a7bba0" />
-<img width="1024" height="1024" alt="20" src="https://github.com/user-attachments/assets/1e83d167-77d1-4728-9f80-7cf965983a5a" />
-<img width="1024" height="1024" alt="18" src="https://github.com/user-attachments/assets/c994ddb6-f989-4887-9f06-a6ccb89ca046" />
-<img width="1024" height="1024" alt="17" src="https://github.com/user-attachments/assets/c1ce7bb1-7411-49ee-8d4d-a63e96faa449" />
-<img width="1024" height="1024" alt="16" src="https://github.com/user-attachments/assets/2cd02bf7-73c5-4800-bc1d-07f969a500ac" />
-<img width="1024" height="1024" alt="15" src="https://github.com/user-attachments/assets/d93d696f-3d17-49d0-9947-aa3b06bd0ac6" />
-<img width="1024" height="1024" alt="14" src="https://github.com/user-attachments/assets/24ef88cd-a649-43aa-9d32-896fe1b07ea1" />
-<img width="1024" height="1024" alt="12" src="https://github.com/user-attachments/assets/a3a4d20a-9f4a-4ffa-a803-6848321fcc99" />
-<img width="1024" height="1024" alt="11" src="https://github.com/user-attachments/assets/2bc6489c-48de-46b3-af21-2d0c98f34df1" />
-<img width="1024" height="1024" alt="10" src="https://github.com/user-attachments/assets/f702b017-683d-45d4-aa57-3950399e3567" />
-<img width="1024" height="1024" alt="9" src="https://github.com/user-attachments/assets/0d2364a1-0e35-4fe7-94f6-7a516b5424b9" />
-<img width="1024" height="1024" alt="8" src="https://github.com/user-attachments/assets/6cea5b21-ba3e-461b-ba1d-bcb15e3d68ce" />
+| | | |
+|---|---|---|
+| [.](https://github.com/user-attachments/assets/96a667e5-b081-4846-bb21-070fa8ebc43e) | [.](https://github.com/user-attachments/assets/c8dd6499-cf65-4934-8665-865ddabf4cd4) | [.](https://github.com/user-attachments/assets/741bd30f-0253-4ff5-ae23-55c9a5a90bbf) |
+| [.](https://github.com/user-attachments/assets/40d91cbe-a885-4652-b7cc-759190a7bba0) | [.](https://github.com/user-attachments/assets/1e83d167-77d1-4728-9f80-7cf965983a5a) | [.](https://github.com/user-attachments/assets/c994ddb6-f989-4887-9f06-a6ccb89ca046) |
+| [.](https://github.com/user-attachments/assets/c1ce7bb1-7411-49ee-8d4d-a63e96faa449) | [.](https://github.com/user-attachments/assets/2cd02bf7-73c5-4800-bc1d-07f969a500ac) | [.](https://github.com/user-attachments/assets/d93d696f-3d17-49d0-9947-aa3b06bd0ac6) |
+| [.](https://github.com/user-attachments/assets/24ef88cd-a649-43aa-9d32-896fe1b07ea1) | [.](https://github.com/user-attachments/assets/a3a4d20a-9f4a-4ffa-a803-6848321fcc99) | [.](https://github.com/user-attachments/assets/2bc6489c-48de-46b3-af21-2d0c98f34df1) |
+| [.](https://github.com/user-attachments/assets/f702b017-683d-45d4-aa57-3950399e3567) | [.](https://github.com/user-attachments/assets/0d2364a1-0e35-4fe7-94f6-7a516b5424b9) | [.](https://github.com/user-attachments/assets/6cea5b21-ba3e-461b-ba1d-bcb15e3d68ce) |
+
 
 
 
