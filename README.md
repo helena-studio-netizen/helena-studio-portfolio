@@ -107,7 +107,6 @@
 Эстетика дорогого полированного камня и органической геометрии.
 Идеальна для оформления digital-проектов, презентаций, лендингов, AI-концепций, бренд-материалов и коллекционных визуальных серий.
 
-
 | | | |
 |---|---|---|
 | [.](https://github.com/user-attachments/assets/96a667e5-b081-4846-bb21-070fa8ebc43e) | [.](https://github.com/user-attachments/assets/c8dd6499-cf65-4934-8665-865ddabf4cd4) | [.](https://github.com/user-attachments/assets/741bd30f-0253-4ff5-ae23-55c9a5a90bbf) |
