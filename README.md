@@ -88,7 +88,7 @@
 | ![](https://github.com/user-attachments/assets/987a857f-29a1-407f-8ca3-41fb5dcb9d79) | ![](https://github.com/user-attachments/assets/c30e57c7-2200-4d92-8c56-e7fc57dfaf2a) | ![](https://github.com/user-attachments/assets/477d3ddf-076b-4be9-8d4d-0916f863bad2) |
 | ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
 
-Серия — Future City Series
+Серия 9— Future City Series
 
 Коллекция футуристических традиционных сцен: неоновые улицы, туман, движущиеся взгляды, синтез научно-фантастической атмосферы и современного мегаполиса. Адаптация для оформления презентаций, сайтов, проектов по темам технологий, урбанистики и будущего.
 
@@ -106,7 +106,7 @@
 ![](https://github.com/user-attachments/assets/144cf387-cfc5-45bc-806d-0e8a976d7c23) | ![](https://github.com/user-attachments/assets/5abd230a-e29e-4029-9fa7-688d9d5053cf) |
 
 
-Серия 9 — Shadow Fabric Volumes
+Серия 10 — Shadow Fabric Volumes
 Коллекция премиальных текстурных сцен: глубокие складки ткани, тени, шелковая пластика и мягкие градиенты света.
 Создана для оформления digital-проектов, презентаций, сайтов, AI-концепций, лендингов и нейросетевого визуала.
 
@@ -120,7 +120,7 @@
 | [![](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5)](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5) | [![](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84)](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84) | [![](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870)](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870) |
 | [![](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7)](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7) | [![](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3)](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3) | [![](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463)](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463) |
 
-Серия 10 — Fluid Chrome Chaos  
+Серия 11 — Fluid Chrome Chaos  
 Коллекция динамичных хромированных абстракций: жидкий металл, волнообразные потоки, зеркальные искажения, глубокие тени и холодные акценты света. Подходит для оформления digital-проектов, презентаций, сайтов, AI-концепций, премиальных лендингов и коммерческих кейсов.
 
 | | | |
@@ -131,7 +131,7 @@
 | [![](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92)](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92) | [![](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab)](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab) | [![](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3)](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3) |
 | [![](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686)](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686) | [![](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26)](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26) | [![](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72)](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72) |
 
-Серия 11 — Mineral Luxe Waves
+Серия 12 — Mineral Luxe Waves
 
 Коллекция премиальных минеральных абстракций: глубокие бирюзовые пласты, песочные волны, мягкие агатовые ядра, фиолетовые включения и золотистые прожилки. Эстетика дорогого полированного камня и органической геометрии. Идеальна для оформления digital-проектов, презентаций, лендингов, AI-концепций, бренд-материалов и коллекционных визуальных серий.
 
