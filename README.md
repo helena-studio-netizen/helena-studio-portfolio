@@ -81,13 +81,14 @@
 
 Премиальная коллекция атмосферных визуалов в готической архитектуре: световые лучи, витражи, колонны, фигуры и мягкие золотистые тени. Создаёт ощущение драматизма, глубины и сакральной атмосферы.
 
-| | |
+| | | |
 |---|---|---|
 ![](https://github.com/user-attachments/assets/9f7bbb90-91a8-475a-ac7e-85fffc8fb49d) | ![](https://github.com/user-attachments/assets/cbe76981-781a-41c4-afc9-e7d24ba62768) | ![](https://github.com/user-attachments/assets/c7c7285d-39ae-446f-9eef-265acabbc667)
 ![](https://github.com/user-attachments/assets/f4a8169f-cc92-4635-b78f-7fc4160933f0) | ![](https://github.com/user-attachments/assets/6f295468-8fae-443a-aeb0-b503aba7bc30) | ![](https://github.com/user-attachments/assets/7151d85a-32bd-4e7c-94d5-10d94550bb6f)
 ![](https://github.com/user-attachments/assets/1b3c09a1-7840-438e-a114-e7fa40f17dec) | ![](https://github.com/user-attachments/assets/7862135d-0ef9-4c85-9a0a-832246fd5b77) | ![](https://github.com/user-attachments/assets/6ec949a7-b383-44bf-a4b8-5e3b436b872c)
 ![](https://github.com/user-attachments/assets/016ae5b1-a1bb-4f5a-a172-ec8cd1ccc648) | ![](https://github.com/user-attachments/assets/ec84e6ce-e422-4a4e-a510-12e64fbd466c) | ![](https://github.com/user-attachments/assets/a7d397ab-a68c-4a15-94e4-8091b2ba5cf8)
 ![](https://github.com/user-attachments/assets/91fea1a2-1479-42b6-95dd-f3b90507da08) | ![](https://github.com/user-attachments/assets/ad2220fb-7e4f-49b4-8467-35294ac7f042) | ![](https://github.com/user-attachments/assets/2a1bbdac-de39-4f43-881d-233065614a9e)
+
 
 
 
