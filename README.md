@@ -7,23 +7,12 @@
 
 | | | |
 |---|---|---|
-![][1] | ![][2] | ![][3] |
-![][4] | ![][5] | ![][6] |
-![][7] | ![][8] | ![][9] |
-![][10] | ![][11] | ![][12] |
-
-[1]: https://github.com/user-attachments/assets/39923a2b-aa28-49e5-aa6a-e130df1f38d9
-[2]: https://github.com/user-attachments/assets/fef528f4-8c15-4a32-9879-d53000f12cc4
-[3]: https://github.com/user-attachments/assets/babad5a5-7840-4386-96e8-b5cf958e50e6
-[4]: https://github.com/user-attachments/assets/f960a4d9-4033-412f-aca9-3424c536e09f
-[5]: https://github.com/user-attachments/assets/6cc5b991-2746-426f-9fce-89e6414f5a1b
-[6]: https://github.com/user-attachments/assets/f273e7d7-aa8f-4599-a86a-897761723623
-[7]: https://github.com/user-attachments/assets/ace2a3d9-3ed2-4311-9f37-dc081365f12a
-[8]: https://github.com/user-attachments/assets/fb1a3723-44d8-4723-b0c8-6f731a05d829
-[9]: https://github.com/user-attachments/assets/5ac15a5e-ac6c-497f-9232-866268bce52f
-[10]: https://github.com/user-attachments/assets/488b37a6-605b-4ea5-8504-526fe8112236
-[11]: https://github.com/user-attachments/assets/cabc6794-9ead-4e92-8aa6-10f1a7490966
-[12]: https://github.com/user-attachments/assets/8b294f74-f285-4ca3-8ecb-e543f939c234
+![](https://github.com/user-attachments/assets/401d54f1-c567-49ea-9513-046ced360fee) | ![](https://github.com/user-attachments/assets/b1718908-3349-445d-8d71-fe6d271621aa) | ![](https://github.com/user-attachments/assets/b8c30fad-f4bb-428d-a5a0-57b49bd44f1d)
+![](https://github.com/user-attachments/assets/a5e6c537-c5d9-4337-be50-e5b419a2d00a) | ![](https://github.com/user-attachments/assets/1f579e8f-d70c-424b-be90-071f412a4809) | ![](https://github.com/user-attachments/assets/0edaabc0-866e-4490-b87a-c2e3cfee72d6)
+![](https://github.com/user-attachments/assets/5f294b0b-ff06-4864-8e16-46b64ce90a6b) | ![](https://github.com/user-attachments/assets/e029ad55-b146-473d-9de1-3dc979951354) | ![](https://github.com/user-attachments/assets/c1bd1cad-ac56-486a-903e-d17776e1601f)
+![](https://github.com/user-attachments/assets/1e1570cc-abbe-441b-a596-57c2c5df3d0f) | ![](https://github.com/user-attachments/assets/6447a14a-b290-4f0e-bfb1-d3a8c8a5c08a) | ![](https://github.com/user-attachments/assets/382bb47f-c931-4bdc-a005-be4856ff89ea)
+![](https://github.com/user-attachments/assets/c0f2a80d-a6a6-4f99-ab3e-ddc61f33f799) | ![](https://github.com/user-attachments/assets/136279de-4b53-47c9-921d-b23f7973ec9e) | ![](https://github.com/user-attachments/assets/ff2d2d41-ed50-4b2d-b21d-f2d15aaffd59)
+![](https://github.com/user-attachments/assets/06455991-f990-49d5-8db0-d9fb94a3bcb2) | | 
 
 
  Серия 2 — Tech-Neon Ultra-Premium 
