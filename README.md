@@ -90,9 +90,6 @@
 ![](https://github.com/user-attachments/assets/91fea1a2-1479-42b6-95dd-f3b90507da08) | ![](https://github.com/user-attachments/assets/ad2220fb-7e4f-49b4-8467-35294ac7f042) | ![](https://github.com/user-attachments/assets/2a1bbdac-de39-4f43-881d-233065614a9e)
 
 
-
-
-
 Серия 8 — Neural Network Geometry
 Коллекция абстрактных 3D-сцен в неоновой эстетике: стеклянные формы, светящиеся орбиты и узлы, напоминающие структуру нейронных сетей. Подходит для оформления AI-проектов, презентаций, сайтов и digital-концепций.
 
@@ -101,6 +98,24 @@
 | ![](https://github.com/user-attachments/assets/bdc17768-a9d6-487c-80a9-30c235d75c94) | ![](https://github.com/user-attachments/assets/4965018f-65f3-45f1-9c93-b924d27f096d) | ![](https://github.com/user-attachments/assets/d6d32f45-a40b-42b3-bd25-024ca53839ff) |
 | ![](https://github.com/user-attachments/assets/987a857f-29a1-407f-8ca3-41fb5dcb9d79) | ![](https://github.com/user-attachments/assets/c30e57c7-2200-4d92-8c56-e7fc57dfaf2a) | ![](https://github.com/user-attachments/assets/477d3ddf-076b-4be9-8d4d-0916f863bad2) |
 | ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
+
+Серия — Future City Series
+
+Коллекция футуристических традиционных сцен: неоновые улицы, туман, движущиеся взгляды, синтез научно-фантастической атмосферы и современного мегаполиса. Адаптация для оформления презентаций, сайтов, проектов по темам технологий, урбанистики и будущего.
+
+| | | |
+|---|---|---|
+![](https://github.com/user-attachments/assets/52674dfd-bea8-4590-b3e6-dc841e95d4de) | ![](https://github.com/user-attachments/assets/1f17113d-a59b-49e4-b55d-460efad2e50f) | ![](https://github.com/user-attachments/assets/4e2871d0-f50e-4660-910d-8df5d8cb4e83)
+![](https://github.com/user-attachments/assets/980e7824-24b3-4229-962d-d00fec4ae62a) | ![](https://github.com/user-attachments/assets/422338a3-86d2-4aa7-bb51-e4d0e78f627c) | ![](https://github.com/user-attachments/assets/4439224d-623f-4139-9a45-465f41c81bba)
+![](https://github.com/user-attachments/assets/0e13bedf-fafe-4105-8bfa-d10febf22db9) | ![](https://github.com/user-attachments/assets/c961a8fb-7c4f-42da-9c73-722b26967c81) | ![](https://github.com/user-attachments/assets/645985a6-3289-4640-ac51-1f77bcefef69)
+![](https://github.com/user-attachments/assets/bc1dac3d-de43-4e4d-8c2b-3d3dec77b0a0) | ![](https://github.com/user-attachments/assets/92b94cab-fcc6-4c9d-a92e-48d29efa72cb) | ![](https://github.com/user-attachments/assets/10f5f9ba-a7c7-4cb3-a84e-b76c1c203b25)
+![](https://github.com/user-attachments/assets/9c1f44e1-8f2b-437d-bc66-15dcfbe40b0c) | ![](https://github.com/user-attachments/assets/f8dd8ba2-da42-46c1-b453-a929f3e33aec) | ![](https://github.com/user-attachments/assets/fc5c9d63-6ed0-47a4-9417-3fc441c3238e)
+![](https://github.com/user-attachments/assets/e4536ae2-b05f-4f12-a246-1c9f3a5e39d5) | ![](https://github.com/user-attachments/assets/aa221773-8047-4b2d-aa1c-2adbe0135c69) | ![](https://github.com/user-attachments/assets/0b6b6ca5-1c59-4556-97f7-b71b3d6ac93e)
+![](https://github.com/user-attachments/assets/64a5ce06-aeb0-4653-b82d-abcb1d20eafb) | ![](https://github.com/user-attachments/assets/3c0284eb-101a-4632-a041-776b455d288a) | ![](https://github.com/user-attachments/assets/98a1021c-9282-45ed-b520-14be82591db9)
+![](https://github.com/user-attachments/assets/de8a7fbb-206f-41f0-b7ae-b3d24b312b68) | ![](https://github.com/user-attachments/assets/f27d738c-01a2-4256-9e8d-58606f44e992) | ![](https://github.com/user-attachments/assets/4749d26b-2aa3-4dd9-93d6-2c533220da34)
+![](https://github.com/user-attachments/assets/28bd3d15-c611-474c-83ab-93bdfa315e47) | ![](https://github.com/user-attachments/assets/130619e3-dd33-4af2-980e-c8cf36db3336) | ![](https://github.com/user-attachments/assets/8c92b341-fad8-4d20-a81f-19720f8a4b34)
+![](https://github.com/user-attachments/assets/144cf387-cfc5-45bc-806d-0e8a976d7c23) | ![](https://github.com/user-attachments/assets/5abd230a-e29e-4029-9fa7-688d9d5053cf) |
+
 
 Серия 9 — Shadow Fabric Volumes
 Коллекция премиальных текстурных сцен: глубокие складки ткани, тени, шелковая пластика и мягкие градиенты света.
