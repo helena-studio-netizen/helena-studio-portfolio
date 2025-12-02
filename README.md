@@ -77,7 +77,22 @@
 | ![](https://github.com/user-attachments/assets/9e4a7eef-1237-4e50-a878-cd9261480c09) | ![](https://github.com/user-attachments/assets/ef060410-bce8-4e75-ab9e-b8b9f58c54eb) | ![](https://github.com/user-attachments/assets/a3337704-d992-4e34-8db6-3ac51eb8f239) |
 | ![](https://github.com/user-attachments/assets/cea07814-aa07-490b-8ab1-cbbd98772c00) | ![](https://github.com/user-attachments/assets/0d5142eb-270c-4c15-af85-575da2d9e11a) | ![](https://github.com/user-attachments/assets/d6233d72-ccef-428e-99c3-997d3ca456ac) |
 
-Серия 7 — Neural Network Geometry
+Серия 7 — Gothic Light Stories
+
+Премиальная коллекция атмосферных визуалов в готической архитектуре: световые лучи, витражи, колонны, фигуры и мягкие золотистые тени. Создаёт ощущение драматизма, глубины и сакральной атмосферы.
+
+| | |
+|---|---|---|
+![](https://github.com/user-attachments/assets/9f7bbb90-91a8-475a-ac7e-85fffc8fb49d) | ![](https://github.com/user-attachments/assets/cbe76981-781a-41c4-afc9-e7d24ba62768) | ![](https://github.com/user-attachments/assets/c7c7285d-39ae-446f-9eef-265acabbc667)
+![](https://github.com/user-attachments/assets/f4a8169f-cc92-4635-b78f-7fc4160933f0) | ![](https://github.com/user-attachments/assets/6f295468-8fae-443a-aeb0-b503aba7bc30) | ![](https://github.com/user-attachments/assets/7151d85a-32bd-4e7c-94d5-10d94550bb6f)
+![](https://github.com/user-attachments/assets/1b3c09a1-7840-438e-a114-e7fa40f17dec) | ![](https://github.com/user-attachments/assets/7862135d-0ef9-4c85-9a0a-832246fd5b77) | ![](https://github.com/user-attachments/assets/6ec949a7-b383-44bf-a4b8-5e3b436b872c)
+![](https://github.com/user-attachments/assets/016ae5b1-a1bb-4f5a-a172-ec8cd1ccc648) | ![](https://github.com/user-attachments/assets/ec84e6ce-e422-4a4e-a510-12e64fbd466c) | ![](https://github.com/user-attachments/assets/a7d397ab-a68c-4a15-94e4-8091b2ba5cf8)
+![](https://github.com/user-attachments/assets/91fea1a2-1479-42b6-95dd-f3b90507da08) | ![](https://github.com/user-attachments/assets/ad2220fb-7e4f-49b4-8467-35294ac7f042) | ![](https://github.com/user-attachments/assets/2a1bbdac-de39-4f43-881d-233065614a9e)
+
+
+
+
+Серия 8 — Neural Network Geometry
 Коллекция абстрактных 3D-сцен в неоновой эстетике: стеклянные формы, светящиеся орбиты и узлы, напоминающие структуру нейронных сетей. Подходит для оформления AI-проектов, презентаций, сайтов и digital-концепций.
 
 | | | |
@@ -86,7 +101,7 @@
 | ![](https://github.com/user-attachments/assets/987a857f-29a1-407f-8ca3-41fb5dcb9d79) | ![](https://github.com/user-attachments/assets/c30e57c7-2200-4d92-8c56-e7fc57dfaf2a) | ![](https://github.com/user-attachments/assets/477d3ddf-076b-4be9-8d4d-0916f863bad2) |
 | ![](https://github.com/user-attachments/assets/061f28ae-a4ea-4e7a-9b0c-9048711a3e8d) | ![](https://github.com/user-attachments/assets/e884c730-24ca-437d-b862-1bee9e092cd4) | ![](https://github.com/user-attachments/assets/568c5da7-92fa-447d-a598-6421b037c072) |
 
-Серия 8 — Shadow Fabric Volumes
+Серия 9 — Shadow Fabric Volumes
 Коллекция премиальных текстурных сцен: глубокие складки ткани, тени, шелковая пластика и мягкие градиенты света.
 Создана для оформления digital-проектов, презентаций, сайтов, AI-концепций, лендингов и нейросетевого визуала.
 
@@ -100,7 +115,7 @@
 | [![](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5)](https://github.com/user-attachments/assets/05b29f12-8a36-4382-9e42-b7927b6ef9e5) | [![](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84)](https://github.com/user-attachments/assets/faa7c8dd-709c-4399-b6c4-862bcae2bc84) | [![](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870)](https://github.com/user-attachments/assets/4ab06498-9c61-458b-9b4b-69c077433870) |
 | [![](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7)](https://github.com/user-attachments/assets/31cdb680-6b32-49bb-9a8d-48de9d6f21d7) | [![](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3)](https://github.com/user-attachments/assets/0a132767-fd84-47d5-a52a-a55e8b20b3e3) | [![](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463)](https://github.com/user-attachments/assets/f2257a54-6d6f-4881-9e1d-11c4437b6463) |
 
-Серия 9 — Fluid Chrome Chaos  
+Серия 10 — Fluid Chrome Chaos  
 Коллекция динамичных хромированных абстракций: жидкий металл, волнообразные потоки, зеркальные искажения, глубокие тени и холодные акценты света. Подходит для оформления digital-проектов, презентаций, сайтов, AI-концепций, премиальных лендингов и коммерческих кейсов.
 
 | | | |
@@ -111,7 +126,7 @@
 | [![](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92)](https://github.com/user-attachments/assets/3774144f-7222-4af5-89fe-a187ee9c6f92) | [![](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab)](https://github.com/user-attachments/assets/36b68aa3-7ae2-4c4e-ba90-195942edbaab) | [![](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3)](https://github.com/user-attachments/assets/b07a7c5c-7292-4d87-b488-46ff57f71bf3) |
 | [![](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686)](https://github.com/user-attachments/assets/e962b19c-f6e4-4728-9446-26d4ee91f686) | [![](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26)](https://github.com/user-attachments/assets/ba8161b5-eeec-4777-a252-919da6ef8c26) | [![](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72)](https://github.com/user-attachments/assets/df61736d-fbc9-4f6a-a21d-e1d7eda1da72) |
 
-Серия 10 — Mineral Luxe Waves
+Серия 11 — Mineral Luxe Waves
 
 Коллекция премиальных минеральных абстракций: глубокие бирюзовые пласты, песочные волны, мягкие агатовые ядра, фиолетовые включения и золотистые прожилки. Эстетика дорогого полированного камня и органической геометрии. Идеальна для оформления digital-проектов, презентаций, лендингов, AI-концепций, бренд-материалов и коллекционных визуальных серий.
 
